@@ -58,23 +58,23 @@ Expert in AI integration, large language models, predictive analytics, and cloud
 <div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00f72c, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
 
 📊 GitHub Analytics
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+<div style="display: flex; margin: 20px 0; font-size: 20px !important;">
 <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-<img src="https://github-readme-stats.vercel.app/api?username=abdullraafay&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00f72c&icon_color=00cc88&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" width="100%" style="border-radius: 8px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdullraafay&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00f72c&icon_color=00cc88&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" width="50%" style="border-radius: 8px;" />
 </div>
 
 <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullraafay&layout=compact&theme=dark&hide_border=true&title_color=00f72c&icon_color=00cc88&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top languages" width="100%" style="border-radius: 8px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullraafay&layout=compact&theme=dark&hide_border=true&title_color=00f72c&icon_color=00cc88&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top languages" width="40%" style="border-radius: 8px;" />
 </div>
-
+</div>
 <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-<img src="https://streak-stats.demolab.com?user=abdullraafay&theme=dark&background=0d1117&border=444&ring=00F72C&fire=00F72C&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="100%" style="border-radius: 8px;" />
+<img src="https://streak-stats.demolab.com?user=abdullraafay&theme=dark&background=0d1117&border=444&ring=00F72C&fire=00F72C&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="50%" style="border-radius: 8px;" />
 </div>
 
 <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 <img src="https://github-profile-trophy.vercel.app/?username=abdullraafay&theme=matrix&row=1&column=8&margin-w=10&margin-h=10&no-bg=true" alt="GitHub trophies" width="100%" style="border-radius: 8px;" />
 </div>
-</div>
+
 
 <!-- Modern gradient divider -->
 <div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00cc88, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
