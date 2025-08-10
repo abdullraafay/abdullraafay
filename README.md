@@ -1,113 +1,143 @@
-<div align="center">
-  
-<!-- Professional Animated Developer Illustration - Top Feature -->
-<img src="https://raw.githubusercontent.com/devSouvik/github-profile-stickers/main/gif/developer.gif" width="350" alt="Professional Developer Animation" />
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #e6edf3; background-color: #0d1117; padding: 0 20px;">
 
-<!-- Enhanced Typing Header with AI Focus -->
-<h1 align="center">
-  <a href="https://www.upwork.com/freelancers/raafay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F72C&center=true&vCenter=true&width=550&lines=Hey+%F0%9F%91%8B+What's+Up%3F;I'm+Abdul+Rafay;AI-Powered+Full+Stack+Expert;MERN+Specialist+%F0%9F%A4%96+%F0%9F%92%BB" alt="Professional Typing Animation" />
-  </a>
+<!-- Top animation -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Animation" style="max-width:700px; width:100%; height:auto; border-radius: 16px; margin-top: 20px;" />
+
+<!-- Typing effect -->
+<h1 style="margin: 20px 0;">
+<a href="https://www.upwork.com/freelancers/raafay" target="_blank" rel="noopener noreferrer">
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=400&color=00F72C,00CC88,00A3E0&center=true&vCenter=true&width=720&lines=Hi,+I%27m+Abdul+Rafay;Expert+Full+Stack+Developer;7%2B+Years+of+Proven+Results;AI+Driven+SaaS+Architect;Transforming+Ideas+Into+Products"
+alt="Typing Animation"
+style="border-radius: 12px; padding: 10px;"
+/>
+</a>
 </h1>
 
-<!-- Animated Rainbow Divider -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" alt="rainbow divider" width="100%" height="50" />
 
-<!-- Enhanced Bio Section with AI Focus -->
-<p align="center">
-  <strong>7+ years building production MERN & AI-driven SaaS platforms</strong><br>
-  Specializing in React, Next.js, Node.js, MongoDB, and scalable architectures with <strong>AI integration</strong>.<br>
-  Expert in payment systems, real-time features, and transforming ideas into market-ready products. 
+<!-- Social Links -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<a href="https://www.linkedin.com/in/abdullraafay/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
+</a>
+<a href="https://www.upwork.com/freelancers/raafay" target="_blank">
+<img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" height="40" alt="Upwork">
+</a>
+<a href="https://github.com/abdulrafay" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub">
+</a>
+</div>
+
+<!-- Modern gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00cc88, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
+
+👨‍💻 About
+<p style="font-size: 18px; line-height: 1.6; max-width: 900px; margin: 0 auto;">
+I have 7+ years of experience building production-grade MERN and AI-driven SaaS platforms.
+Founder and Lead Engineer of PreorderCart.com and VovantSpace, specializing in scalable React, Next.js, Node.js, MongoDB systems with real-time and payment integrations.
+Expert in AI integration, large language models, predictive analytics, and cloud-native deployments.
 </p>
 
-<!-- Professionally Animated Tech Stack with MERN Focus -->
-<h2>⚡ Tech Stack</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <!-- Core MERN Stack -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" alt="MERN Stack" width="350" />
-  <!-- AI Specialization -->
-  <img src="https://skillicons.dev/icons?i=py,fastapi,langchain,tensorflow,aws" alt="AI Tools" width="300" />
-  <!-- Frontend & DevOps -->
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,docker,vercel,github" alt="Dev Tools" width="320" />
-</div>
-<p align="center"><em>Professional animated tech stack icons compatible with both light and dark modes</em> </p>
+<!-- Modern gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00a3e0, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
 
-<!-- Complete Social Badges with All Platforms -->
-<h2>🌍 Connect With Me</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; padding: 10px;">
-  <a href="https://www.linkedin.com/in/abdulraafey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub">
-  </a>
-  <a href="https://www.upwork.com/freelancers/raafay" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" height="40" alt="Upwork">
-  </a>
+⚡ Core Skills & Tech Stack
+<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin: 30px 0;">
+<div style="background: linear-gradient(145deg, #161b22, #1c232c); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts" alt="MERN & Next.js" style="max-width:420px;" />
+<p style="margin-top: 15px; font-size: 16px; color: #00cc88;"><strong>MERN & Next.js Expertise</strong></p>
 </div>
 
-<!-- Enhanced GitHub Analytics with Professional Presentation -->
-<h2>📊 Professional Analytics</h2>
-
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; max-width: 800px; margin: 0 auto;">
-
-<!-- Streak Stats with Custom Branding -->
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark&background=0d1117&border=444&ring=00F72C&fire=00F72C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F72C&sideLabels=FFFFFF&dates=959595)](https://git.io/streak-stats)
+<div style="background: linear-gradient(145deg, #161b22, #1c232c); border-radius: 16px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+<img src="https://skillicons.dev/icons?i=python,fastapi,langchain,tensorflow,aws" alt="AI & Backend" style="max-width:420px;" />
+<p style="margin-top: 15px; font-size: 16px; color: #00a3e0;"><strong>AI & Cloud Infrastructure</strong></p>
+</div>
 </div>
 
-<!-- Professional Trophy Display -->
-<div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&column=8&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Modern gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00f72c, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
+
+📊 GitHub Analytics
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+<img src="https://github-readme-stats.vercel.app/api?username=abdullraafay&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00f72c&icon_color=00cc88&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" width="100%" style="border-radius: 8px;" />
 </div>
 
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullraafay&layout=compact&theme=dark&hide_border=true&title_color=00f72c&icon_color=00cc88&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top languages" width="100%" style="border-radius: 8px;" />
 </div>
 
-<!-- Professional Contribution Graph -->
-<h2>🔥 Contribution Activity</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/contribution-graph.svg" alt="Professional Contribution Graph" width="100%">
-  <p><em>Responsive contribution graph that adapts to both light and dark modes</em> </p>
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+<img src="https://streak-stats.demolab.com?user=abdullraafay&theme=dark&background=0d1117&border=444&ring=00F72C&fire=00F72C&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" width="100%" style="border-radius: 8px;" />
 </div>
 
-<!-- Featured Projects with Professional Presentation -->
-<h2>🚀 Featured Projects</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 900px; margin: 0 auto;">
-
-<div style="flex: 1; min-width: 250px;">
-  <a href="https://preordercart.com">
-    <img src="https://img.shields.io/badge/PreorderCart-B2B/B2C_Platform-00cc44?style=for-the-badge&logo=vercel&logoColor=white" alt="PreorderCart">
-  </a>
-  <p>AI-powered e-commerce platform with real-time inventory management</p>
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+<img src="https://github-profile-trophy.vercel.app/?username=abdullraafay&theme=matrix&row=1&column=8&margin-w=10&margin-h=10&no-bg=true" alt="GitHub trophies" width="100%" style="border-radius: 8px;" />
+</div>
 </div>
 
-<div style="flex: 1; min-width: 250px;">
-  <a href="https://vovantspace.vercel.app">
-    <img src="https://img.shields.io/badge/VovantSpace-Mentorship_Platform-8844ff?style=for-the-badge&logo=react&logoColor=white" alt="VovantSpace">
-  </a>
-  <p>Full-stack mentorship platform with AI matching algorithms</p>
+<!-- Modern gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00cc88, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
+
+🚀 Featured Projects
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto;">
+
+<!-- Project 1 -->
+<a href="https://preordercart.com" target="_blank" style="text-decoration: none; color: inherit;">
+<div style="background: linear-gradient(145deg, #161b22, #1c232c); border-radius: 12px; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 3px solid #00f72c; overflow: hidden; position: relative;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0, 247, 44, 0.15); padding: 3px 8px; border-radius: 10px; font-size: 12px;">E-commerce</div>
+<h3 style="margin-top: 0; color: #00f72c; display: flex; align-items: center;">
+<span style="margin-right: 8px;">🚀</span> PreorderCart
+</h3>
+<p style="color: #c9d1d9; line-height: 1.5; margin: 12px 0;">AI-powered B2B/B2C e-commerce platform with preorders, wallet system, real-time inventory & AI recommendations</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px;">
+<span style="background: rgba(0, 204, 136, 0.15); color: #00cc88; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Next.js</span>
+<span style="background: rgba(0, 163, 224, 0.15); color: #00a3e0; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Node.js</span>
+<span style="background: rgba(0, 247, 44, 0.15); color: #00F72C; padding: 3px 8px; border-radius: 5px; font-size: 12px;">MongoDB</span>
+<span style="background: rgba(255, 255, 255, 0.1); color: #e6edf3; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Stripe</span>
+</div>
+</div>
+</a>
+
+<!-- Project 2 -->
+<a href="https://vovantspace.vercel.app" target="_blank" style="text-decoration: none; color: inherit;">
+<div style="background: linear-gradient(145deg, #161b22, #1c232c); border-radius: 12px; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 3px solid #00cc88; overflow: hidden; position: relative;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0, 204, 136, 0.15); padding: 3px 8px; border-radius: 10px; font-size: 12px;">Freelancing</div>
+<h3 style="margin-top: 0; color: #00cc88; display: flex; align-items: center;">
+<span style="margin-right: 8px;">✨</span> VovantSpace
+</h3>
+<p style="color: #c9d1d9; line-height: 1.5; margin: 12px 0;">Multi-role freelancing platform with AI-based matching, real-time chat, and session scheduling</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px;">
+<span style="background: rgba(0, 247, 44, 0.15); color: #00F72C; padding: 3px 8px; border-radius: 5px; font-size: 12px;">React</span>
+<span style="background: rgba(0, 163, 224, 0.15); color: #00a3e0; padding: 3px 8px; border-radius: 5px; font-size: 12px;">WebSockets</span>
+<span style="background: rgba(0, 204, 136, 0.15); color: #00cc88; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Node.js</span>
+<span style="background: rgba(255, 255, 255, 0.1); color: #e6edf3; padding: 3px 8px; border-radius: 5px; font-size: 12px;">MongoDB</span>
+</div>
+</div>
+</a>
+
+<!-- Project 3 -->
+<a href="https://gamerswar.com/sports" target="_blank" style="text-decoration: none; color: inherit;">
+<div style="background: linear-gradient(145deg, #161b22, #1c232c); border-radius: 12px; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 3px solid #00a3e0; overflow: hidden; position: relative;">
+<div style="position: absolute; top: 10px; right: 10px; background: rgba(0, 163, 224, 0.15); padding: 3px 8px; border-radius: 10px; font-size: 12px;">Esports</div>
+<h3 style="margin-top: 0; color: #00a3e0; display: flex; align-items: center;">
+<span style="margin-right: 8px;">🎮</span> GamersWar
+</h3>
+<p style="color: #c9d1d9; line-height: 1.5; margin: 12px 0;">Real-time esports platform with payment gateway integration and analytics dashboard</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px;">
+<span style="background: rgba(0, 247, 44, 0.15); color: #00F72C; padding: 3px 8px; border-radius: 5px; font-size: 12px;">React</span>
+<span style="background: rgba(0, 163, 224, 0.15); color: #00a3e0; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Node.js</span>
+<span style="background: rgba(0, 204, 136, 0.15); color: #00cc88; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Socket.IO</span>
+<span style="background: rgba(255, 255, 255, 0.1); color: #e6edf3; padding: 3px 8px; border-radius: 5px; font-size: 12px;">Payments</span>
+</div>
+</div>
+</a>
 </div>
 
-<div style="flex: 1; min-width: 250px;">
-  <a href="https://gamerswar.com/sports">
-    <img src="https://img.shields.io/badge/GamersWar-Esports_Platform-ff6600?style=for-the-badge&logo=game&logoColor=white" alt="GamersWar">
-  </a>
-  <p>Real-time competitive gaming platform with payment integration</p>
-</div>
+<!-- Modern gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0d1117, #00f72c, #0d1117); margin: 40px auto; width: 80%; border-radius: 50px;"></div>
 
-</div>
-
-<!-- AI Specialization Callout -->
-<h2>🤖 AI Engineering Expertise</h2>
-<div align="center">
-  <p>Specialized in implementing AI solutions that drive business value:<br>
-  LLM integrations • Predictive analytics • Automation systems • Custom AI models</p>
-  <img src="https://img.shields.io/badge/AI_Development-Trending_in_2024-00F72C?style=flat-square&logo=google-colab" alt="AI Development">
-</div>
-
-<!-- Professional Animated Footer -->
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F72C&height=80&section=footer&animation=twinkling" width="100%"/>
-<p align="center"><em>Professional GitHub profile designed for enterprise clients • Fully responsive in both light and dark modes</em> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F72C&height=80&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
