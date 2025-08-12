@@ -6,13 +6,13 @@
 </a>
 
 <div>
-<a href="https://www.linkedin.com/in/abdullraafay/" target="_blank">
+<a href="https://www.linkedin.com/in/abdulraafey/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
 </a>
 <a href="https://www.upwork.com/freelancers/raafay" target="_blank">
 <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" height="30" alt="Upwork">
 </a>
-<a href="https://github.com/abdulrafay" target="_blank">
+<a href="https://github.com/abdullraafay" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub">
 </a>
 </div>
